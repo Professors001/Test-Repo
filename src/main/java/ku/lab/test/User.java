@@ -12,4 +12,6 @@ public class User {
         userName = "Euro";
         accountName = "JJ";
     }
+
+    public String getUserName() {return this.userName;}
 }
