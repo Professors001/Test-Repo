@@ -5,12 +5,13 @@ public class User {
     private String iD;
     private String accountName;
 
-    private Double password;
+    private int passwod_xxxxxxxx;
 
 
     public User() {
+        iD = "00125gnbfvd";
         userName = "Alex";
         accountName = "JJ";
-        iD = "00125";
+        passwod_xxxxxxxx = 4949;
     }
 }
