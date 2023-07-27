@@ -8,8 +8,8 @@ public class User {
     private String password;
 
     public User() {
-        iD = "00125gnbfvd";
-        userName = "Alex";
+        iD = "euroeiei";
+        userName = "Euro";
         accountName = "JJ";
     }
 }
