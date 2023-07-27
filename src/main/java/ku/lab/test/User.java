@@ -5,13 +5,11 @@ public class User {
     private String iD;
     private String accountName;
 
-    private int passwod_xxxxxxxx;
-
+    private String password;
 
     public User() {
         iD = "00125gnbfvd";
         userName = "Alex";
         accountName = "JJ";
-        passwod_xxxxxxxx = 4949;
     }
 }
