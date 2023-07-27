@@ -5,8 +5,7 @@ public class User {
     private String iD;
     private String accountName;
 
-    private Double password;
-
+    private String password;
 
     public User() {
         userName = "Alex";
