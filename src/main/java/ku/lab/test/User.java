@@ -8,10 +8,11 @@ public class User {
     private String password;
 
     public User() {
-        iD = "euroeiei";
-        userName = "Euro";
+        iD = "1256";
+        userName = "AAA";
         accountName = "JJ";
     }
 
     public String getUserName() {return this.userName;}
+    public String getPassword() {return this.password;}
 }
